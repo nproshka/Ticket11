@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/Ticket11.iml
+/.idea/
